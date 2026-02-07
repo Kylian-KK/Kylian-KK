@@ -15,7 +15,7 @@
 # 🧘‍♂️ Qui suis je ?
 
 ### 📊 Alchimiste de la Sciences des Données
-Salut, je me m'appelle Kylian Kouda. Je suis un modeste analyste des données, transformant le chaos informationnel en visuelle compréhensible et attrayant. 
+Salut, je me m'appelle Kylian Kouda. Je suis un modeste scientifique des données, transformant le chaos informationnel en visuelle compréhensible et attrayant. 
 Ancien artisan des mathématiques, je me suis reconverti dans les sciences de données en passant par des stages où j'ai acquis la maîtrise de la visualisation des données.
 
 ---
